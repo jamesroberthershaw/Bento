@@ -10,11 +10,11 @@ const CONFIG = {
 	// ├┴┐├─┤└─┐││  └─┐
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
-	// General
-	name: 'John',
-	imageBackground: false,
-	openInNewTab: true,
-	twelveHourFormat: false,
+  // General
+  name: 'James',
+  imageBackground: false,
+  openInNewTab: true,
+  twelveHourFormat: false,
 
 	// Greetings
 	greetingMorning: 'Good morning!',
@@ -51,43 +51,43 @@ const CONFIG = {
 	// └─┘└─┘ ┴  ┴ └─┘┘└┘└─┘
 
 	firstButtonsContainer: [
-		{
-			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
-		},
-		{
-			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
-		},
-		{
-			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
-		},
-		{
-			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
-		},
-		{
-			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
-		},
-		{
-			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
-		},
-	],
+	    {
+	      id: '1',
+	      name: 'Github',
+	      icon: 'github',
+	      link: 'https://github.com/',
+	    },
+	    {
+	      id: '2',
+	      name: 'james.robert.hershaw',
+	      icon: 'mail',
+	      link: 'https://mail.google.com/mail/u/1/#inbox',
+	    },
+	    {
+	      id: '3',
+	      name: 'jam3s11017',
+	      icon: 'mail',
+	      link: 'https://mail.google.com/mail/u/0/#inbox',
+	    },
+	    {
+	      id: '4',
+	      name: '19897898',
+	      icon: 'mail',
+	      link: 'https://outlook.office.com/mail/inbox',
+	    },
+	    {
+	      id: '5',
+	      name: 'Reddit',
+	      icon: 'bookmark',
+	      link: 'https://reddit.com',
+	    },
+	    {
+	      id: '6',
+	      name: 'Youtube',
+	      icon: 'youtube',
+	      link: 'https://www.youtube.com/',
+	    },
+	  ],
 
 	secondButtonsContainer: [
 		{
@@ -135,24 +135,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'binary',
 			id: '1',
 			links: [
-				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+			        {
+					name: 'Goodreads',
+					link: 'https://www.goodreads.com',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Movies',
+					link: 'https://www.fmovies.to',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Netflix',
+					link: 'https://www.netflix.com',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'FPL',
+					link: 'https://fantasy.premierleague.com',
 				},
 			],
 		},
@@ -162,19 +162,19 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					link: 'https://linkedin.com/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Teams',
+					link: 'https://teams.microsoft.com/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Jira',
+					link: 'https://corigine.atlassian.net/jira/dashboards/10029',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Sportingbet',
+					link: 'https://sports.sportingbet.co.za/en/sports',
 				},
 			],
 		},
@@ -183,7 +183,7 @@ const CONFIG = {
 	// Second Links Container
 	secondListsContainer: [
 		{
-			icon: 'binary',
+			icon: 'music',
 			id: '1',
 			links: [
 				{
