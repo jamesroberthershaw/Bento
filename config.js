@@ -139,8 +139,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 			        {
-					name: 'Goodreads',
-					link: 'https://www.goodreads.com',
+					name: 'StoryGraph',
+					link: 'https://app.thestorygraph.com',
 				},
 				{
 					name: 'Movies',
