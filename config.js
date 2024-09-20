@@ -147,8 +147,8 @@ const CONFIG = {
 					link: 'https://www.fmovies.to',
 				},
 				{
-					name: 'Netflix',
-					link: 'https://www.netflix.com',
+					name: 'Kindle',
+					link: 'https://read.amazon.com/kindle-library',
 				},
 				{
 					name: 'FPL',
